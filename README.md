@@ -14,6 +14,10 @@ Read about how to contribute [here](.github/CONTRIBUTING.md).
  * Ruby 2.6.1
 
 #### Instructions
+
+---
+Update instructions on how to run application
+
 1. clone down the repo
 2. put instructions for how to run the application
 3. make sue they are detailed instructions
@@ -22,4 +26,4 @@ Read about how to contribute [here](.github/CONTRIBUTING.md).
 6. for example you might be on rails 6 make sure to let the user know that they may need to be on rails 6 to run this as is
 
 ## User Stories
-Read the [User Stories](.github/CONTRIBUTING.md) to see what we need for the backend.
+Read the [User Stories](User-Stories.md) to see what we need for the backend.
