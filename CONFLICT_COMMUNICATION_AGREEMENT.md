@@ -1,3 +1,8 @@
+# Code of Conduct
+
+If you choose to work on this product you are still expected to follow the [Flatiron School Code of Conduct](https://flatironschool.com/code-of-conduct/).
+Failure to abide by this will result in removal from the project.
+
 #### Conflict Plan
 
 Your team should agree on a process for handing disagreements, should they arise. It is better to have a plan in place ahead of time so you can all refer back to it if necessary.
