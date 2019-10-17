@@ -12,9 +12,15 @@ _Why:_
 
 As a team, we are going to create a Group Agreement as a markdown file to document the following:
 
-* What will your group do when it encounters conflict?
-* What is your process to resolve conflicts?
-* How and when will you escalate the conflict if your attempts are unsuccessful?
+* What will your group do when it encounters conflict? Talk about it, escalate to group then to Cody
+
+
+* What is your process to resolve conflicts? Discussion, Scoping, these could be handled in pairs or done at the standup, table things if you can't come to an agreement.
+
+
+* How and when will you escalate the conflict if your attempts are unsuccessful? if something is tabled and is not resolved by standup then Cody will solve it.
+
+1. Tie breakers go to Cody
 
 #### Communication Plan
 
@@ -25,6 +31,16 @@ _Why:_
 
 Add your communication plan to your Group Agreement. Some things to consider:
 
-* How will you communicate after hours and on the weekend?
-* What is your strategy for ensuring everyone's voices are heard?
-* How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?
+* How will you communicate after hours and on the weekend? Just talk in slack channel (THREAD IT) and make issues use project board.
+  
+* What is your strategy for ensuring everyone's voices are heard? Weekly standup (can be in person, Slack, Or video), Postmortem, Speak up for others.
+
+
+* How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up? Listen, Mindfulness, Respectful, Slack conversations should be in general channel as opposed to DMs.
+
+1. Comments about code - NOT IN JSX
+2. Consistent variable names
+3. Todos in code to make squashing bugs easier to find
+4. Explicit commit messages (`Added validations to forms` instead of `done`)
+5. Issues, Pull requests, Project board
+6. Slack channel first line of communication
