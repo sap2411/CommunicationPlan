@@ -46,6 +46,6 @@ Add your communication plan to your Group Agreement. Some things to consider:
 6. Slack channel first line of communication
 
 
-# Signed by
+#### Signed by
 
 Jason Leach
