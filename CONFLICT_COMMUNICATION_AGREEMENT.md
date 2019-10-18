@@ -44,3 +44,8 @@ Add your communication plan to your Group Agreement. Some things to consider:
 4. Explicit commit messages (`Added validations to forms` instead of `done`)
 5. Issues, Pull requests, Project board
 6. Slack channel first line of communication
+
+
+# Signed by
+
+Jason Leach
