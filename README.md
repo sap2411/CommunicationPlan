@@ -23,7 +23,7 @@ Update instructions on how to run application
 3. make sue they are detailed instructions
 4. so that anyone could easily follow them
 5. and get this up and running
-6. for example you might be on rails 6 make sure to let the user know that they may need to be on rails 6 to run this as is
+6. for example you might be on Rails 6 make sure to let the user know that they may need to be on rails 6 to run this as is
 
 ## User Stories
 Read the [User Stories](User-Stories.md) to see what we need for the backend.
