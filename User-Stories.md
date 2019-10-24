@@ -55,8 +55,8 @@
    3. <https://www.eventbrite.com/e/open-house-open-lab-tickets-68647258799?aff=website>
    4. <https://www.meetup.com/Seattle-FlatironSchoolStudy/>
 
-3. As a `General User`, I should see a "promoted" Profile, That cycles through all profiles either randomly or one by one.
-4. As a `General User`, I should see a button `Profiles`, that takes me to a list of all profiles it should be sortable think this ![alt text](linkedin.png)
+3. As a `General User`, I should see a "promoted" Projects, That cycles through all projects either randomly or one by one.
+4. As a `General User`, I should see a button `Projects`, that takes me to a list of all projects it should be sortable think this ![alt text](linkedin.png)
 5. As a `General User`, I should be able to scroll down through all users seeing a preview on the right of their application, this will allow the user the ability to browse the alumni quickly.
 6. As a `General User`, I should be able to click on the preview on the right to full screen that profile, this would allow the user to view more information.
 7. As a `General User`, there should be a button to take me back to the pictured view.
