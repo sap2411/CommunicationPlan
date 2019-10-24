@@ -38,7 +38,7 @@
 
 1. As a `Developer`, I will make an admin account, the admin will have access to more routes than a typical user.
 2. As a `Developer`, I will give Admin the ability to make other admin accounts.
-3. As an `Admin`, I should be able to click a button `add staff`, which allows you to type in an email or multiple emails that gets sent to staff with admin permissions.
+3. As an `Admin`, I should be able to click a button `add admin`, which allows you to type in an email or multiple emails that gets sent to staff with admin permissions.
 4. As an `Admin`, I should have a "pending" notification that tells me there are students waiting to be approved, This will allow quick access to the apporval page which has "pending" students in a table with a graduated checkbox.
 5. As an `Admin`, I should be able to confirm that users have graduated by checking a box, this will allow us to make sure that only students who have gratuated can post.
 6. As an `Admin`, After checking the box there should be an email sent to the `Alumni User` notifying them that they now have access to post the information about their Mod 5 project.
