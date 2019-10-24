@@ -52,3 +52,4 @@ Add your communication plan to your Group Agreement. Some things to consider:
 * Austin Harlow
 * Aidiris Rivera
 * Aliya Lewis
+* Chet Chopra
