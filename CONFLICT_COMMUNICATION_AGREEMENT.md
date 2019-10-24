@@ -48,7 +48,7 @@ Add your communication plan to your Group Agreement. Some things to consider:
 
 #### Signed by
 
-Jason Leach
-Austin Harlow
-Aidiris Rivera
-Aliya Lewis
+* Jason Leach
+* Austin Harlow
+* Aidiris Rivera
+* Aliya Lewis
