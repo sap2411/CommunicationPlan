@@ -51,3 +51,4 @@ Add your communication plan to your Group Agreement. Some things to consider:
 Jason Leach
 Austin Harlow
 Aidiris Rivera
+Aliya Lewis
