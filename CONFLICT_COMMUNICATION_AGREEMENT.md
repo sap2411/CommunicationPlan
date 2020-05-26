@@ -12,13 +12,13 @@ _Why:_
 
 As a team, we are going to create a Group Agreement as a markdown file to document the following:
 
-* What will your group do when it encounters conflict? Talk about it, escalate to group then to Cody
+* What will your group do when it encounters conflict? Talk about it, escalate to group then to an instructor
 
 
 * What is your process to resolve conflicts? Discussion, Scoping, these could be handled in pairs or done at the standup, table things if you can't come to an agreement.
 
 
-* How and when will you escalate the conflict if your attempts are unsuccessful? if something is tabled and is not resolved by standup then Cody will solve it.
+* How and when will you escalate the conflict if your attempts are unsuccessful? if something is tabled and is not resolved by standup then an instructor will solve it.
 
 1. Tie breakers go to instructors(Lead or Coach)
 
