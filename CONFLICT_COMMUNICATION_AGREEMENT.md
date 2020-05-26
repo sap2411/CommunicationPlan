@@ -20,7 +20,7 @@ As a team, we are going to create a Group Agreement as a markdown file to docume
 
 * How and when will you escalate the conflict if your attempts are unsuccessful? if something is tabled and is not resolved by standup then Cody will solve it.
 
-1. Tie breakers go to Cody
+1. Tie breakers go to instructors(Lead or Coach)
 
 #### Communication Plan
 
@@ -38,11 +38,11 @@ Add your communication plan to your Group Agreement. Some things to consider:
 
 * How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up? Listen, Mindfulness, Respectful, Slack conversations should be in general channel as opposed to DMs.
 
-1. Comments about code - NOT IN JSX
+1. Leave Comments in code explaining functionality and or bugs 
 2. Consistent variable names
 3. Todos in code to make squashing bugs easier to find
 4. Explicit commit messages (`Added validations to forms` instead of `done`)
-5. Issues, Pull requests, Project board
+5. Utilize Issues, Pull requests, Project board
 6. Slack channel first line of communication
 
 
