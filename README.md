@@ -1,32 +1,87 @@
-# Showcase Backend
+# Project Title
 
-Rails API that allows students to add information about their Mod 5 projects to a website that will be shared with employers and future students
+One Paragraph of project description goes here
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+### Prerequisites
+
+What things you need to install the software and how to install them
+
+```
+Give examples
+```
+
+### Installing
+
+A step by step series of examples that tell you how to get a development env running
+
+Say what the step will be
+
+```
+Give the example
+```
+
+And repeat
+
+```
+until finished
+```
+
+End with an example of getting some data out of the system or using it for a little demo
+
+## Running the tests
+
+Explain how to run the automated tests for this system
+
+### Break down into end to end tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+### And coding style tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+## Deployment
+
+Add additional notes about how to deploy this on a live system
+
+## Built With
+
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Contributing
-Read about how to contribute [here](.github/CONTRIBUTING.md).
 
-## Env Setup
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
-#### Requirements
+## Versioning
 
- * PostgresSQL
- * Rails 6
- * Ruby 2.6.1
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
-#### Instructions
+## Authors
 
----
-Update instructions on how to run application
+* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
-1. clone down the repo
-2. put instructions for how to run the application
-3. make sue they are detailed instructions
-4. so that anyone could easily follow them
-5. and get this up and running
-6. for example you might be on Rails 6 make sure to let the user know that they may need to be on rails 6 to run this as is
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
-## User Stories
-Read the [User Stories](User-Stories.md) to see what we need for the backend.
+## License
 
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-[Link to Frontend](https://github.com/codyjgreen/Showcase-Front)
+## Acknowledgments
+
+* Hat tip to anyone whose code was used
+* Inspiration
+* etc
